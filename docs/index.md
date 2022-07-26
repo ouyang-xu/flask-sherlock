@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages - MySite
 
 You can use the [editor on GitHub](https://github.com/ouyang-xu/flask-sherlock/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
